@@ -1,0 +1,63 @@
+* {
+    margin: 0;
+}
+
+.logo {
+    width: 50px;
+    height: auto;
+}
+
+.center {
+    /* position: relative; */
+    /* background-color: rgb(166, 234, 30); */
+    background-image: url(pantai.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: auto;
+    padding-top: 300px;
+    padding-bottom: 400px;
+    margin-bottom: 150px;
+}
+
+
+.centered {
+    /* align-items: center;  */
+    /* position: absolute; */
+    /* top: 50%; */
+    /* width: 100%; */
+    font-size: 50px;
+    font-weight: 550px;
+    text-align: center;
+    color: white;
+    font-family: sans-serif;
+}
+
+.text {
+    font-size: 25px;
+    text-align: center;
+    color: white;
+    font-family: Tahoma;
+}
+
+.img {
+    width: 500px;
+    height: auto;
+}
+
+.card {
+    display: flex;
+    justify-content: center;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 8px 8px rgba(0, 0, 0, 0.1);
+    padding: 30px;
+    width: 80%;
+    text-align: center;
+    margin-left: 150px;
+    margin-bottom: 50px;
+}
+
+.card-content {
+    padding: 16px;
+}
+

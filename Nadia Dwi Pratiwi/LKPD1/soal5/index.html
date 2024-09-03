@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Alert</title>
+</head>
+<style>
+    /* #countdownbutton {
+        padding: 15px;
+        border: 1px solid transparent;
+        font-size: 15px;
+        text-align: center;
+        width: 300px;
+        margin: 20px auto;
+    } */
+
+    /* button {
+        padding: 15px;
+        font-size: 15px;
+        color: white;
+        background-color: green;
+    } */
+</style>
+<body>
+    <center><button onclick="countdownbutton()" class="button">Munculkan Alert</button>
+    <div id="countdownbutton" class="alert"></div>
+    <script>
+        function countdownbutton() {
+            let count = 5;
+            // const button = document.getElementById("countdownbutton");
+
+            // button.style.backgroundColor = 'red';
+            // button.style.color = 'white';
+            // button.style.fontWeight = 'bold';
+
+            let interval = setInterval(function() {
+                document.getElementById("countdownbutton").innerHTML="Danger! Alert akan tertutup dalam: " + count;
+                count--;
+                if (count < 0) {
+                    clearInterval(interval);
+                    document.getElementById("countdownbutton").innerHTML="";
+
+                    // button.style.backgroundColor = '';
+                    // button.style.color = '';
+                    // button.style.fontWeight = '';
+                }
+            }, 1000);
+        }
+    </script></center>
+</body>
+</html>
