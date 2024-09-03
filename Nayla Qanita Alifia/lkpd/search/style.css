@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+span {
+    color: #0000ff;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 48px;
+    background-color: #f4f0f0;
+}
+
+.searching {
+    display: flex;
+}
+
+.searchInput {
+    padding: 8px 24px;
+    border: none;
+}
+
+.searchButton {
+    padding: 8px 16px;
+    background-color: #e2dddd;
+    border: none;
+    cursor: pointer;
+}
+
+.searchStatus {
+    margin-top: 16px;
+    text-align: center;
+}

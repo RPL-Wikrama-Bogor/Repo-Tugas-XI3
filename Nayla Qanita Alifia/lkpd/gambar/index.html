@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gambar</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <div class="section">
+            <img id="gambar1" src="img/img-1.jpeg" alt="gambar1">
+            Ubah:
+            <label for="pilih_gambar1">
+                <select name="pilih_gambar1" id="pilih_gambar1">
+                    <option value="">Pilih Gambar</option>
+                    <option value="img/horse.jpg" data-opacity="1">Kuda</option>
+                    <option value="img/flower.jpg" data-opacity="0.5">Bunga</option>
+                    <option value="img/mountain.jpg" data-opacity="0.2">Gunung</option>
+                </select>
+            </label>
+            <label for="pilih_opacity1">
+                <select name="pilih_opacity1" id="pilih_opacity1">
+                    <option value="1">1</option>
+                    <option value="0.5">0.5</option>
+                    <option value="0.2">0.2</option>
+                </select>
+            </label>
+            <input type="button" value="Kirim" onclick="applyChanges('gambar1', 'pilih_gambar1', 'pilih_opacity1')">
+        </div>
+    </div>
+
+    <script>
+         function applyChanges(imgId, pilihGambarId, pilihOpacityId) {
+            var imgElement = document.getElementById(imgId);
+            var pilihGambar = document.getElementById(pilihGambarId);
+            var pilihOpacity = document.getElementById(pilihOpacityId);
+
+            var pilihGambar = pilihGambar.value;
+            var pilihOpacity = pilihOpacity.value;
+
+            if (pilihGambar) {
+                imgElement.src = pilihGambar;
+            }
+            
+            if (pilihOpacity) {
+                imgElement.style.opacity = pilihOpacity;
+            }
+        }
+    </script>
+</body>
+</html>

@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Button Alert</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <button class="alertButton" id="alertButton">Munculkan Alert</button>
+    </div>
+
+    <div class="overlay" id="overlay"></div>
+    <div class="text" id="text">
+        <div>
+            <b>Danger!</b> Alert akan tertutup dalam <span id="countdown" class="countdown"></span> detik.
+        </div>
+    </div>
+
+    <script>
+        document.getElementById("alertButton").addEventListener("click", function() {
+            var text = document.getElementById("text");
+            var overlay = document.getElementById("overlay");
+            var countdownElement = document.getElementById("countdown");
+            var countdownValue = 5;
+
+            text.style.display = "block";
+            overlay.style.display = "block";
+            countdownElement.textContent = countdownValue;
+
+            var countdownInterval = setInterval(function() {
+                countdownValue--;
+                countdownElement.textContent = countdownValue;
+
+                if (countdownValue <= 0) {
+                    clearInterval(countdownInterval);
+                    text.style.display = "none";
+                    overlay.style.display = "none";
+                }
+            }, 1000);
+        })
+    </script>
+</body>
+</html>

@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cari Data</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <div class="searching">
+            <input type="text" class="searchInput" id="searchInput" placeholder="Search..." required>
+            <button class="searchButton" id="searchButton">Submit</button>
+        </div>
+    </div>
+
+    <div class="searchStatus" id="searchStatus">
+        <b>Tidak mencari data...</b>
+    </div>
+
+    <script>
+        document.getElementById("searchButton").addEventListener("click", function() {
+            var searchQuery = document.getElementById("searchInput").value;
+            var statusElement = document.getElementById("searchStatus");
+
+            if (searchQuery) {
+                statusElement.innerHTML = "<b>Mencari data " + "<span>" +  searchQuery +"</span></b>"
+            } else {
+                statusElement.innerHTML = "<b>Tidak mencari data... </b>";
+            }
+        })
+    </script>
+</body>
+</html>

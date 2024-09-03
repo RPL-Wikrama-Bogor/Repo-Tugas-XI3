@@ -1,0 +1,11 @@
+.other_amount {
+    width: 72px;
+    height: 32px;
+    border: 1px solid #000;
+}
+
+.amount {
+    width: 136px;
+    height: 32px;
+    border: 1px solid #000;
+}

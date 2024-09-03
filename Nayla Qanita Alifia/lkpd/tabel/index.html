@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tabel</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <table border="1" cellspacing="0">
+        <thead>
+            <tr>
+                <th>No.</th>
+                <th>Keterangan</th>
+                <th>Bersedia Membayar</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td rowspan="2">1.</td>
+                <td rowspan="2">
+                    Bersedia membayar <b>Dana Sumbangan Pembangunan (DSP)</b> Sebesar Rp 8.500.000 dengan mekanisme pembayaran Dana Sumbangan Pendidikan.
+                </td>
+                <td>
+                    <input type="radio" id="option1" name="payment_option" value="option1">
+                    Lunas saat Daftar Ulang
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <input type="radio" id="option2" name="payment_option" value="option2">
+                    60% dibayarkan saat daftar ulang, dan sisanya dibayarkan paling lambat tanggal 13 Juli 2024.
+                </td>
+            </tr>
+
+            <tr>
+                <td>2.</td>
+                <td>
+                    Bersedia membayar <b>Sumbangan Penyelenggaraan Pendidikan (SPP)</b> secara rutin setiap bulan sebesar <b>Rp 550.000</b> yang dibayarkan sebelum tanggal 10 setiap bulannya kecuali bulan Juli 2024.
+                </td>
+                <td>
+                    <input type="checkbox" id="checkbox" name="checkbox" value="checkbox">
+                </td>
+            </tr>
+
+            <tr>
+                <td rowspan="8">3.</td>
+                <td rowspan="7">
+                    <b>Pembayaran Lainnya.</b><br><br>
+                    Setelah Putra/Putri kami diterima di SMK Wikrama Bogor, kami juga bersedia memberikan:<br><br>
+                    a. Wakaf pembangunan Mesjid Al-Ikram
+                </td>
+                <td>
+                    <input type="radio" id="option1" name="amount" value="300000">
+                    Rp 300.000
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <input type="radio" id="option2" name="amount" value="500000">
+                    Rp 500.000
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <input type="radio" id="option3" name="amount" value="1000000">
+                    Rp 1.000.000
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <input type="radio" id="option4" name="amount" value="2000000">
+                    Rp 2.000.000
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <input type="radio" id="option5" name="amount" value="5000000">
+                    Rp 5.000.000
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <input type="radio" id="amountother" name="amount" value="other">
+                    > Rp 5.000.000 atau Rp 
+                    <input type="number" class="other_amount" name="other_amount" id="other_amount" placeholder="">
+                </td>
+            </tr>
+            <tr>
+                <td>
+                </td>
+            </tr>
+
+            <tr>
+                <td>b. <b>Zakat Infaq dan Sodaqoh</b> secara rutin setiap bulan.</td>
+                <td>
+                    <input type="number" class="amount" name="amount" placeholder="Rp 20.000">
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</body>
+</html>
