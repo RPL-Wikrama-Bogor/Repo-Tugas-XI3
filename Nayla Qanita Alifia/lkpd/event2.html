@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <form action="">
+        <div>
+            <label for="">Jenjang Pendidikan</label>
+            <select name="" id="" onchange="changeOption(this)">
+                <option disabled hidden selected>Pilih</option>
+                <option value="sd">SD</option>
+                <option value="smp">SMP</option>
+                <option value="sma">SMA</option>
+                <option value="d3">D3</option>
+                <option value="d4/s1">D4/S1</option>
+            </select>
+        </div>
+        <div>
+            <label for="">Tingkat Sekolah</label>
+            <select name="" id="tingkat_sekolah">
+                <option disabled hidden selected>Silahkan pilih jenjang pendidikan</option>
+            </select>
+        </div>
+    </form>
+    <script>
+        function changeOption(e) {
+            if (e.value == "sd") {
+                document.getElementById("tingkat_sekolah").innerHTML = `
+                <option value="1">Kelas 1</option>
+                <option value="2">Kelas 2</option>
+                <option value="3">Kelas 3</option>
+                <option value="4">Kelas 4</option>
+                <option value="5">Kelas 5</option>
+                <option value="6">Kelas 6</option>
+                `;
+            } else if (e.value == "smp") {
+                document.getElementById("tingkat_sekolah").innerHTML = `
+                <option value="7">Kelas 7</option>
+                <option value="8">Kelas 8</option>
+                <option value="9">Kelas 9</option>
+                `;
+            } else if (e.value == "sma") {
+                document.getElementById("tingkat_sekolah").innerHTML = `
+                <option value="10">Kelas 10</option>
+                <option value="11">Kelas 11</option>
+                <option value="12">Kelas 12</option>
+                `;
+            } else if (e.value == "d3") {
+                document.getElementById("tingkat_sekolah").innerHTML = `
+                <option value="semester1">Semester 1</option>
+                <option value="semester2">Semester 2/option>
+                <option value="semester3">Semester 3</option>
+                <option value="semester4">Semester 4</option>
+                <option value="semester5">Semester 5</option>
+                <option value="semester6">Semester 6</option>
+                `;
+            } else if (e.value == "d4/s1") {
+                document.getElementById("tingkat_sekolah").innerHTML = `
+                <option value="semester1">Semester 1</option>
+                <option value="semester2">Semester 2</option>
+                <option value="semester3">Semester 3</option>
+                <option value="semester4">Semester 4</option>
+                <option value="semester5">Semester 5</option>
+                <option value="semester6">Semester 6</option>
+                `;
+            }
+        }
+    </script>
+</body>
+</html>

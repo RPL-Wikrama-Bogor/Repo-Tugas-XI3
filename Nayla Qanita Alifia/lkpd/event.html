@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <form action="">
+        <div>
+            <label for="tipe_peserta">Peserta</label>
+            <input type="radio" name="tipe" id="tipe_peserta" value="peserta" onclick="changeLabel(this)">
+            <label for="perekomendasi">Perekomendasi</label>
+            <input type="radio" name="tipe" id="tipe_perekomendasi" value="perekomendasi" onclick="changeLabel(this)">
+        </div>
+        <div>
+            <label for="" id="text_change">Wilayah Kerja</label>
+            <input type="text" name="" id="">
+        </div>
+        <div id="add_content"></div>
+    </form>
+
+    <script>
+        function changeLabel(e) {
+            let value = e.value;
+            let el = document.getElementById('text_change');
+            let addEl = document.getElementById('add_content');
+
+            if (value == "peserta") {
+                el.innerText = "Wilayah Kerja";
+                el.style.backgroundColor = "red";
+                addEl.innerHTML = `
+                    <label for="" id="text_change">Nama Peserta</label>
+                    <input type="text" name="" id="">
+                `;
+            } else {
+                el.innerText = "Unit Kerja";
+                el.style.backgroundColor = "blue";
+                addEl.innerHTML = `
+                <label for="" id="text_change">ID Perekomendasi</label>
+                <input type="text" name="" id="">
+                `;
+            }
+        }
+    </script>
+</body>
+</html>
