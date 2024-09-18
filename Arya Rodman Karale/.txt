@@ -1,1 +1,3 @@
 LKPD 1 : https://github.com/AryaRodman/LKPD1html-css
+TUGAS LARAVEL KAK ABI : https://github.com/AryaRodman/LaravelKakAbi
+LINK TRELLO TUGAS LARAVEL KAK ABI : https://trello.com/invite/b/66ea84c3f2fbac97904524e9/ATTI9dbc4f570cbe5bd1c94509a43a3917d7BE8D29EF/aryas-laravel-progress
