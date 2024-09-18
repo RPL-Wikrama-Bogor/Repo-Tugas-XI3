@@ -1,1 +1,2 @@
 LKPD-1: https://github.com/achmadwhildan/LKPD-1
+Belajar Laravel: https://github.com/achmadwhildan/belajar-laravel.git
