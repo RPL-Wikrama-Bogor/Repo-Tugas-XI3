@@ -1,1 +1,4 @@
 LKPD 1 : https://github.com/andkstrr/LKPD-XI-1-
+LKPD 2 : https://github.com/andkstrr/LKPD-XI-2-
+oop-bahanBakar : https://github.com/andkstrr/oopBahanBakar
+view-laravel : https://github.com/andkstrr/laravel-view
