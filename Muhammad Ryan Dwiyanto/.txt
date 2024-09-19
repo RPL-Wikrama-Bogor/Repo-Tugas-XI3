@@ -1,2 +1,3 @@
 LKPD 1 : https://github.com/Ryan-Dwiyanto/XI-LKPD1
-LKPD 2 : https://github.com/Ryan-Dwiyanto/XI-LKPD2
+LKPD 2 : https://github.com/Ryan-Dwiyanto/XI-LKPD2  
+Laravel Tes : https://github.com/Ryan-Dwiyanto/XI-Laravel
