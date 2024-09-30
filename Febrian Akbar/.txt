@@ -1,3 +1,4 @@
 LKPD 1 = https://github.com/febrianakbar/LKPD-1-
-LKPD 2 =
+LKPD 2 = https://github.com/febrianakbar/tugas-lkpd-2
 Project laravel = https://github.com/febrianakbar/laravel
+Link Trello = https://trello.com/invite/b/66ea8681b16e34c2456caf88/ATTI55a5f5079982250471844aeb7a06bc1f133C1342/febrian-akbar
