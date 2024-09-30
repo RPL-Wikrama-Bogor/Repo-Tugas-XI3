@@ -1,1 +1,3 @@
 LKPD1 : https://github.com/annaafiaditya/LKPD1-PPLG-XI-3.git
+LKPD2 : https://github.com/annaafiaditya/LKPD2-PPLG-XI-3.git
+OOP Bahan Bakar : https://github.com/annaafiaditya/bensin-oop-XI-3.git
