@@ -1,0 +1,5 @@
+12310054 / LKPD 1 / https://github.com/siramal/LKPD1.git
+
+12310054 / BelajarLaravel10/ https://github.com/siramal/belajarLaravel10.git
+
+12310054 / trelloBelajarLaravel10 / https://trello.com/invite/b/66ea8815c5431ddc43642bd2/ATTI596517b2cdd11d373383db5cb197aab1FC47C30F/projek-laravel-travel
