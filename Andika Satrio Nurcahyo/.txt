@@ -1,5 +1,5 @@
 LKPD 1 : https://github.com/andkstrr/LKPD-XI-1-
 LKPD 2 : https://github.com/andkstrr/LKPD-XI-2-
-trello : https://trello.com/invite/b/66ea878428d05f1544b4db89/ATTI3e65c7ac6a1d41970c7822955915dc1a22B9AA81/my-trello-board
+trello : 
 oop-bahanBakar : https://github.com/andkstrr/oopBahanBakar
 view-laravel : https://github.com/andkstrr/laravel-view
