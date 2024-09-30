@@ -1,2 +1,4 @@
 LKPD-1: https://github.com/achmadwhildan/LKPD-1
+LKPD-2: https://github.com/achmadwhildan/LKPD-kls-11
 Belajar Laravel: https://github.com/achmadwhildan/belajar-laravel.git
+Trello: https://trello.com/b/IE32ytkI/data-siswa
