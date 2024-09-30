@@ -1,1 +1,2 @@
 LKPD-1: https://github.com/Kenjo-Syonin/LKPD-1
+LKPD-2: https://github.com/Kenjo-Syonin/LKPD-2
