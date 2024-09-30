@@ -1,3 +1,9 @@
-LKPD 1 : https://github.com/AryaRodman/LKPD1html-css
+LKPD 1 HTML & CSS : https://github.com/AryaRodman/LKPD1html-css
+
+LKPD 2 PHP : https://github.com/AryaRodman/LKPDPHP11
+
 TUGAS LARAVEL KAK ABI : https://github.com/AryaRodman/LaravelKakAbi
+
 LINK TRELLO TUGAS LARAVEL KAK ABI : https://trello.com/invite/b/66ea84c3f2fbac97904524e9/ATTI9dbc4f570cbe5bd1c94509a43a3917d7BE8D29EF/aryas-laravel-progress
+
+LINK TRELLO C.R.U.D SENDIRI : https://trello.com/invite/b/66fa058dc4fb94e462dae9d7/ATTI7c6e331f25ccbca122fecd5f69a85a24AC5FE493/netflix-laravel
