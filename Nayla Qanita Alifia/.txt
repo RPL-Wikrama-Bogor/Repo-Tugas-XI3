@@ -1,1 +1,3 @@
 https://github.com/naylaqanitaalifia/lkpd1
+https://github.com/naylaqanitaalifia/lkpd2-php
+https://github.com/naylaqanitaalifia/bahan-bakar2
