@@ -1,1 +1,3 @@
 Lkpd 1 + tugas kak Fema <https://github.com/ValensioCS/Tugas-Kak-Fema>
+Lkpd 2 <https://github.com/ValensioCS/Tugas-PHP>
+Trello <https://trello.com/b/n0xUjkMO/tugas>
