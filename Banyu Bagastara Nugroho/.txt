@@ -1,1 +1,3 @@
 LKPD-1 : https://github.com/siranyu/LKPD-1
+LKPD-2 : https://github.com/banyubn/LKPD-2
+Trello : https://trello.com/invite/b/66fa507b2f1bdc69be8252da/ATTI719810163376e2b31d3bc5c5ebb811e64A7C9EC2/my-trello-board
