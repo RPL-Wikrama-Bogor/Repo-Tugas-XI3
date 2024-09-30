@@ -1,0 +1,5 @@
+link repositories : 
+
+lkpd 1 : https://github.com/pannca/LKPD-1.git
+lkpd 2 : https://github.com/pannca/LKPD2-PHP.git
+belajar laravel : https://github.com/pannca/laravel-route.git
