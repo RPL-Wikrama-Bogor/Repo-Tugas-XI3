@@ -1,3 +1,4 @@
 LKPD1 : https://github.com/annaafiaditya/LKPD1-PPLG-XI-3.git
 LKPD2 : https://github.com/annaafiaditya/LKPD2-PPLG-XI-3.git
 OOP Bahan Bakar : https://github.com/annaafiaditya/bensin-oop-XI-3.git
+Trello : https://trello.com/invite/b/66fa4e49adf92140b944aaf0/ATTI2325d19a37082d202cd9eb530dda9a371858931A/tugas-crud-pplg-xi3
