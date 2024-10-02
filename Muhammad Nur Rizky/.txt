@@ -1,6 +1,6 @@
 LPKD 1 : https://github.com/Nurrizzky/Lkpd-1-Kls-11.git
 
-LKPD 2 : 
+LKPD 2 : https://github.com/Nurrizzky/LKPD-2-Kls-11
 
 Belajar laravel : https://github.com/Nurrizzky/Belajar-Laravel
 
