@@ -1,3 +1,4 @@
-LKPD 1 : https://github.com/EdwardBun/Lkpd1
+LKPD 1 : https://github.com/EdwardBun/Lkpd1\
+LKPD 2 : https://github.com/EdwardBun/PHP
 Belajar Laravel : https://github.com/EdwardBun/public
 Trello : https://trello.com/b/1kJXaPAs/laravel
