@@ -1,0 +1,2 @@
+LKPD 1 : https://github.com/fkriarp/LKPD-1.git
+WEBSITE LARAVEL 10 : https://github.com/fkriarp/belajar-laravel-10.git 
