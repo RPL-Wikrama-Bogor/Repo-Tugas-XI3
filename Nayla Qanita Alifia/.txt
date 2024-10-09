@@ -1,0 +1,5 @@
+12309937 / LKPD 1/ https://github.com/naylaqanitaalifia/lkpd1
+12309937 / LKPD 2 / https://github.com/naylaqanitaalifia/lkpd2-php
+12309937 / Studi Kasus / https://github.com/naylaqanitaalifia/bahan-bakar2
+12309937 / Belajar Laravel 10 / https://github.com/naylaqanitaalifia/projek-laravel10
+12309937 / Trello / https://trello.com/invite/b/66fa4ea0d04dbca4e555558b/ATTI0c74d9e8e44b5fb182ef3a85bea295f8F33F1ABE/projek-laravel

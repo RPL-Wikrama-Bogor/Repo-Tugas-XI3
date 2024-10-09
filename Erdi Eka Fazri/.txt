@@ -1,0 +1,2 @@
+LKPD 1: https://github.com/erdfzri/LKPD-1.git
+TRELLO : https://trello.com/invite/b/670693ba8dee126af3781ecb/ATTId2bf1f369d36786166545417d415cfaa16619EA6/projek-laravel-crud

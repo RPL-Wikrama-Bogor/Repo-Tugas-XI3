@@ -1,0 +1,3 @@
+LKPD1:https://github.com/jasminemeuthia/LKPD-1.git
+LKPD2:https://github.com/jasminemeuthia/LKPD-2-PHP.git
+Trello:https://trello.com/b/HmAzF5F3/js-mine
