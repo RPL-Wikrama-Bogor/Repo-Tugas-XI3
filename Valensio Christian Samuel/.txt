@@ -1,5 +1,3 @@
-1. SIMPAN HASIL TES DI REPOSITORY MASING MASING
-2. BUAT REPOSITORY PADA GITHUB MASING-MASING
-3. MASUKKAN LINK REPOSITORY KE .txt NAMA MASING-MASING
-4. LAKUKAN ADD COMMIT PUSH ke branch (nis) SEPERTI BIASA
-5. BUAT PULL REQUEST DI REPOSITORY Repo-Tugas-XI5
+Lkpd 1 + tugas kak Fema <https://github.com/ValensioCS/Tugas-Kak-Fema>
+Lkpd 2 <https://github.com/ValensioCS/Tugas-PHP>
+Trello <https://trello.com/b/n0xUjkMO/tugas>
