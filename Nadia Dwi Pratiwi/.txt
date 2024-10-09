@@ -1,0 +1,4 @@
+LKPD1 : https://github.com/nadiadwipratiwi/LKPD1
+LKPD2 : https://github.com/nadiadwipratiwi/LKPD2
+Studi Kasus (bahan bakar) : https://github.com/nadiadwipratiwi/bahanbakar-oop
+Trello : https://trello.com/b/IgEJ0ZPk/nadia-board
