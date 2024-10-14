@@ -1,3 +1,4 @@
 lkpd 1: https://github.com/AZZRIL-RAFFA/lkpd1
 lkpd 2:https://github.com/AZZRIL-RAFFA/lkpd2
-trelo :https://trello.com/b/x3GDy1zW/raffa
+trelo apotek:https://trello.com/b/x3GDy1zW/raffa
+trelo sendiri:https://trello.com/b/9dM9PPgu/mahasiswa
