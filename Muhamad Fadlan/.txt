@@ -1,4 +1,4 @@
 LKPD 1: https://github.com/muhamadfadlann/LKPD-1.git
 LKPD 2: https://github.com/muhamadfadlann/LKPD2PHP.git
 
-Link Trello: https://trello.com/invite/b/67079c623111b0799f7c0cf6/ATTIaf4f9a164b87847ab9ebbf195893c32e3145C509/sewa-motor
+Link Trello: https://trello.com/invite/b/67079c623111b0799f7c0cf6/ATTIaf4f9a164b87847ab9ebbf195893c32e3145C509/manajemenkaryawan
