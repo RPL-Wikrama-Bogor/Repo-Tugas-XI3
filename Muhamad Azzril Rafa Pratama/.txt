@@ -1,0 +1,4 @@
+lkpd 1: https://github.com/AZZRIL-RAFFA/lkpd1
+lkpd 2:https://github.com/AZZRIL-RAFFA/lkpd2
+link tugas :https://github.com/AZZRIL-RAFFA/penjualan
+link trello: https://trello.com/invite/b/670cc9f37a199a3b33163b39/ATTI079f5ad74bf8350fe83f689c0fefb0bd02E83B49/mahasiswa
