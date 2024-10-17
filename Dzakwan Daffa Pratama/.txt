@@ -1,1 +1,16 @@
+
+LKPD1
+
 LKPD 1 Htmml,css&JS : https://github.com/dzakwandaffap/LKPD-1-html-JS-XII
+LKPD1 no5:https://github.com/dzakwandaffap/Alert-Button
+LKPD1 no4:https://github.com/dzakwandaffap/Oppacity-Changer
+LKPD1 no2:https://github.com/dzakwandaffap/Landing-Page-latihan
+
+note:no2,no4 dan no5 di lkpd1 tidak bisa dibuka jadi beda link github
+
+
+LKPD2
+
+LKPD 2 PHP 1-10 : https://github.com/dzakwandaffap/LKPD-PHP-1-10-XI-awal
+
+LINK TRELLO : https://trello.com/invite/b/66fa220a6f7f76477884886f/ATTIe022c136e87e808e44dd60f9fb4c92e0DF0E18E2/booking
