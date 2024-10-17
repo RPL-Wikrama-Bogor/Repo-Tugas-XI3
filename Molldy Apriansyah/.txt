@@ -1,0 +1,3 @@
+lkpd 1 <https://github.com/Molldyapriansyah1/lkpd-1>
+lkpd 2 <https://github.com/Molldyapriansyah1/lkpd-2>
+trello <https://trello.com/invite/b/66ea8436fe1d1d14f59b36d0/ATTIe1de14c6874a36b00e60fdea739861a113AA99F9/molldy-board>
