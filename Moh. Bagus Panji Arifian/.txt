@@ -1,0 +1,3 @@
+LKPD 1 : https://github.com/Mbgspanji/lkpd-1.git
+LKPD 2 : https://github.com/Mbgspanji/lkpd-2.git
+Trello : https://trello.com/invite/b/670c79f0cabd852066223c35/ATTI4a6e5fbe28c579823113c456dabd562e4068BAB6/project-trello

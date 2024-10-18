@@ -1,0 +1,4 @@
+LKPD 1: https://github.com/muhamadfadlann/LKPD-1.git
+LKPD 2: https://github.com/muhamadfadlann/LKPD2PHP.git
+
+Link Trello: https://trello.com/invite/b/6712ead1dd9e70ab3d8d91a9/ATTIdf79ad11ef05dd6ce471f48b67d823ba28740AA0/data-pegawai
