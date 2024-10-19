@@ -1,5 +1,9 @@
 12310054 / LKPD 1 / https://github.com/siramal/LKPD1.git
 
+<<<<<<< HEAD
 12310054 / BDP-app/ https://github.com/siramal/BDP-app.git
+=======
+12310054 / BelajarLaravel10/ https://github.com/siramal/belajarLaravel10.git
+>>>>>>> 0b2e51802f9c4c32dcd0af0b66228f383a5413ee
 
 12310054 / trelloBelajarLaravel10 / https://trello.com/invite/b/66ea8815c5431ddc43642bd2/ATTI596517b2cdd11d373383db5cb197aab1FC47C30F/projek-laravel-travel

@@ -1,4 +1,8 @@
 LKPD 1: https://github.com/muhamadfadlann/LKPD-1.git
 LKPD 2: https://github.com/muhamadfadlann/LKPD2PHP.git
 
+<<<<<<< HEAD
 Link Trello: https://trello.com/invite/b/6712ead1dd9e70ab3d8d91a9/ATTIdf79ad11ef05dd6ce471f48b67d823ba28740AA0/data-pegawai
+=======
+Link Trello: https://trello.com/invite/b/67079c623111b0799f7c0cf6/ATTIaf4f9a164b87847ab9ebbf195893c32e3145C509/manajemenkaryawan
+>>>>>>> 0b2e51802f9c4c32dcd0af0b66228f383a5413ee
