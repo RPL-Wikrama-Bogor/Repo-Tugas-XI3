@@ -1,4 +1,4 @@
 LKPD 1 : https://github.com/farrelmb/lkpd1.git
 LKPD 2 : https://github.com/farrelmb/LKPD2.git
 LKPD 3 : https://github.com/farrelmb/laravel-view.git
-Trello : https://trello.com/invite/b/66fa58a50809e589db3d5c15/ATTIdda94ec54a5abf64f93d6dc4fb55a7922B8A8417/laravel
+Trello : https://trello.com/invite/b/6706795ab4b77a9bdfa965e3/ATTIed46ddf847e368e76c090ac24b9d7773B5C881DA/project-pribadi-data-sekolahcrud
