@@ -4,6 +4,8 @@ LKPD 2 : https://github.com/Nurrizzky/LKPD-2-Kls-11
 
 Belajar laravel : https://github.com/Nurrizzky/Belajar-Laravel
 
+GITHUB Project CRUD-laravel == https://github.com/Nurrizzky/crud-project-dealer
+
 PROJECT_CRUD (Virello) : https://trello.com/invite/b/66fa5853872902041ad71a70/ATTI8ee7d02659e517744a08fbcb58285f5277BC0B61/to-do-list 
 
 
