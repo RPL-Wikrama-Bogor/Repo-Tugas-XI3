@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 
 LKPD1
 
@@ -15,6 +15,4 @@ LKPD2
 LKPD 2 PHP 1-10 : https://github.com/dzakwandaffap/LKPD-PHP-1-10-XI-awal
 
 LINK TRELLO : https://trello.com/invite/b/66fa220a6f7f76477884886f/ATTIe022c136e87e808e44dd60f9fb4c92e0DF0E18E2/booking
-=======
-LKPD 1 Htmml,css&JS : https://github.com/dzakwandaffap/LKPD-1-html-JS-XII
->>>>>>> 0b2e51802f9c4c32dcd0af0b66228f383a5413ee
+

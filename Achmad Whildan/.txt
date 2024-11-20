@@ -1,4 +1,5 @@
 LKPD-1: https://github.com/achmadwhildan/LKPD-1
 LKPD-2: https://github.com/achmadwhildan/LKPD-kls-11
 Belajar Laravel: https://github.com/achmadwhildan/belajar-laravel.git
-Trello: https://trello.com/b/IE32ytkI/data-siswa
+Trello: https://trello.com/invite/66ea8362e39ad5db43fc6c70/ATTId458b1c08e6595d28fdddd07283076ef950A6477
+project crud : https://github.com/achmadwhildan/CRUD_laravel
